@@ -8,7 +8,7 @@
 
 
 
-        <li>{{$value->nombre}}</li>
+        <li>{{$value->first_name}} {{$value->last_name}}</li>
 
 
 
